@@ -23,6 +23,6 @@ public class Readjson {
         String lname = (String) studentobj.get("lastname");
 
         System.out.println("Firstname: " + fname);
-        System.out.println("Lastname: " + lname);
-    }
+        System.out.println("Lastname: " + lname);
+    }
 }
